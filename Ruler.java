@@ -15,7 +15,3 @@ public class Ruler {
     }
 }
 
-// Add the changes:
-git add Ruler.java
-git commit -m "Add recursive Ruler program"
-git push
